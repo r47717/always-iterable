@@ -1,6 +1,11 @@
 {
   "name": "always-iterable",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r47717/always-iterable.git"
+  },
+  "homepage": "https://github.com/r47717/always-iterable.git",
   "description": "Make any JS entity iterable",
   "main": "index.js",
   "author": "r47717",
